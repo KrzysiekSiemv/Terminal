@@ -1,0 +1,10 @@
+C:\Users\Krzysiek\source\repos\Terminal\Terminal\bin\Debug\Terminal.exe.config
+C:\Users\Krzysiek\source\repos\Terminal\Terminal\bin\Debug\Terminal.exe
+C:\Users\Krzysiek\source\repos\Terminal\Terminal\bin\Debug\Terminal.pdb
+C:\Users\Krzysiek\source\repos\Terminal\Terminal\obj\Debug\Terminal.csprojAssemblyReference.cache
+C:\Users\Krzysiek\source\repos\Terminal\Terminal\obj\Debug\Terminal.Form1.resources
+C:\Users\Krzysiek\source\repos\Terminal\Terminal\obj\Debug\Terminal.Properties.Resources.resources
+C:\Users\Krzysiek\source\repos\Terminal\Terminal\obj\Debug\Terminal.csproj.GenerateResource.cache
+C:\Users\Krzysiek\source\repos\Terminal\Terminal\obj\Debug\Terminal.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiek\source\repos\Terminal\Terminal\obj\Debug\Terminal.exe
+C:\Users\Krzysiek\source\repos\Terminal\Terminal\obj\Debug\Terminal.pdb
